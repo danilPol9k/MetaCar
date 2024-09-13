@@ -1,0 +1,59 @@
+@font-face {
+    font-family: 'Circe';
+    src: url('/font/Circe-Light.eot');
+    src: local('/font/Circe Light'), local('Circe-Light'),
+        url('/font/Circe-Light.eot?#iefix') format('embedded-opentype'),
+        url('/font/Circe-Light.woff2') format('woff2'),
+        url('/font/Circe-Light.woff') format('woff'),
+        url('/font/Circe-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Circe Extra';
+    src: url('/font/Circe-ExtraBold.eot');
+    src: local('Circe Extra Bold'), local('Circe-ExtraBold'),
+        url('/font/Circe-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('/font/Circe-ExtraBold.woff2') format('woff2'),
+        url('/font/Circe-ExtraBold.woff') format('woff'),
+        url('/font/Circe-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Circe';
+    src: url('/font/Circe-Thin.eot');
+    src: local('Circe Thin'), local('Circe-Thin'),
+        url('/font/Circe-Thin.eot?#iefix') format('embedded-opentype'),
+        url('/font/Circe-Thin.woff2') format('woff2'),
+        url('/font/Circe-Thin.woff') format('woff'),
+        url('/font/Circe-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Circe';
+    src: url('/font/Circe-Regular.eot');
+    src: local('Circe'), local('Circe-Regular'),
+        url('/font/Circe-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/font/Circe-Regular.woff2') format('woff2'),
+        url('/font/Circe-Regular.woff') format('woff'),
+        url('/font/Circe-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Circe';
+    src: url('/font/Circe-Bold.eot');
+    src: local('Circe Bold'), local('Circe-Bold'),
+        url('/font/Circe-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/font/Circe-Bold.woff2') format('woff2'),
+        url('/font/Circe-Bold.woff') format('woff'),
+        url('/font/Circe-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
